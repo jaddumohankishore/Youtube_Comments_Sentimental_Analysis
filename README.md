@@ -36,10 +36,10 @@ The app also provides:
 ### 1️⃣ Input Section
 ![Input](images/input_placeholder.png)
 
-### 2️⃣ Analyzed Comments & CSV Download
+### 2️⃣ Analyzed Comments 
 ![Comments](images/comments_placeholder.png)
 
-### 3️⃣ Sentiment Distribution Charts
+### 3️⃣ Sentiment Distribution Charts & CSV Download
 ![Charts](images/charts_placeholder.png)
 
 ---
@@ -125,10 +125,7 @@ YOUTUBE_API_KEY = "YOUR_API_KEY"
 - Integrate video transcript sentiment analysis
 - Add dashboard for historical sentiment trends
 
-## ⚖️ License
 
-This project is licensed under the MIT License – see LICENSE
- for details.
 
 ## 👤 Author
 
